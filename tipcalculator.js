@@ -24,7 +24,7 @@ function calculateTip() {
   //next line allows us to always have two digits after decimal point
   total = total.toFixed(2);
   //Display the tip
-  document.getElementById("totalTip").style.display = "block";
+  document.getElementById("totalTip").style.display = "block";``
   document.getElementById("tip").innerHTML = total;
 
 }
