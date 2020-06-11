@@ -20,9 +20,8 @@ body {
   }
 
   div {
-    background-image:
-        url("Calculator.png");
-        background-size: 80%;
+    background-image: #ed3c3c
+        background-size: 60%;
   }
   
   h1 {
